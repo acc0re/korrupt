@@ -1,4 +1,4 @@
-# 🛠️ **Korrupt - Your File Size Generator**  
+# 🛠️ **Korrupt - File Size Generator**  
 Korrupt is a simple and practical tool to create files with a custom size. Perfect for testing storage, debugging applications, or generating random dummy files.  
 
 ---
